@@ -1,2 +1,6 @@
 # CODSOFT Internship
-Web Development
+Web Development Intern
+
+Tasks done:
+1) Landing Page
+
